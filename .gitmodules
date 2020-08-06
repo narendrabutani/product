@@ -1,0 +1,3 @@
+[submodule "react-backend/client"]
+	path = react-backend/client
+	url = E:\\projects\\react\\product\\react-backend\\client
